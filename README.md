@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá, eu sou o Michael! 👋
 
-<!--
-**Mggor/Mggor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Sistemas de Informação (5º semestre)  
+🔧 Experiência em suporte técnico (Dell e Brother)  
+💻 Estudando Python, HTML, C++ e MySQL  
+🕹️ Futuro desenvolvedor de jogos
 
-Here are some ideas to get you started:
+Atualmente aprendendo:
+- 🐍 Python
+- 🎮 Desenvolvimento de jogos com Godot
+- 🌐 Web com HTML e MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Entre em contato comigo: michaelloliveiraa@gmail.com
